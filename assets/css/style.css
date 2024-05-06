@@ -76,6 +76,7 @@ body {
   padding: 15px;
   transition: 10.5s;
   z-index: 10;
+  box-shadow: 10px 10px 2px 1px #8e959a, 10px 10px 2px 2px black;
 }
 
 .modal-box-layer {
