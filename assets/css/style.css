@@ -26,10 +26,6 @@ body {
   font-family: "Shikamaru", sans-serif;
 }
 
-.font-noto-sans {
-  font-family: "Noto Sans", sans-serif;
-}
-
 .main-content {
   background-image: url(../img/bg.png);
   background-repeat: no-repeat;
