@@ -1,6 +1,6 @@
 var modal = document.getElementById("modal");
 var modalBox = document.getElementById("modal-box");
-const blockId = [1, 2, 3];
+const blockId = [1, 3];
 const btnPrefixId = "btn-";
 const slidePrefixId = "slide-";
 const activeButtonClassName = "btn-active";
